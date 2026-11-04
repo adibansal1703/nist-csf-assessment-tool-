@@ -78,9 +78,3 @@ npm run dev
 
 ---
 
-## 📝 Resume Bullet Points (For Software / Security Engineers)
-
-- **Developed an Enterprise NIST CSF 2.0 Cybersecurity Assessment Tool** using React, TypeScript, Tailwind CSS, and FastAPI to streamline organizational risk profiling across 6 core cybersecurity functions.
-- **Integrated Google Gemini AI API** to analyze audit evidence notes, automatically suggest maturity scores (0-100%), and produce automated gap remediation recommendations.
-- **Engineered dynamic data visualizations & client-side PDF reporting** using Recharts and `@react-pdf/renderer`, featuring executive gap analysis summaries and assessor digital sign-off authorization blocks.
-- **Designed a resilient architecture** with client-side fallback data handling, ensuring 100% uptime and seamless operation during backend disconnects.
