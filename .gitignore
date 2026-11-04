@@ -1,0 +1,39 @@
+# Node dependencies
+node_modules/
+frontend/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Production build outputs
+dist/
+build/
+frontend/dist/
+
+# Python / Virtual Environment
+venv/
+backend/venv/
+backend/venc/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Databases & Local Environment Files
+*.db
+*.sqlite3
+backend/nist_csf.db
+.env
+.env.local
+.env.*.local
+
+# IDE & OS Files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.suo
+*.user
+
+# Project Artifacts
+.artifacts/

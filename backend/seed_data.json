@@ -1,0 +1,858 @@
+[
+  {
+    "function_id": "GV",
+    "function_name": "GOVERN",
+    "category_id": "GV.OC",
+    "category_name": "Organizational Context",
+    "subcategory_id": "GV.OC-01",
+    "subcategory_text": "The organizational mission is understood and informs cybersecurity risk management decisions."
+  },
+  {
+    "function_id": "GV",
+    "function_name": "GOVERN",
+    "category_id": "GV.OC",
+    "category_name": "Organizational Context",
+    "subcategory_id": "GV.OC-02",
+    "subcategory_text": "Internal and external stakeholders are understood, and their needs regarding cybersecurity risk are considered."
+  },
+  {
+    "function_id": "GV",
+    "function_name": "GOVERN",
+    "category_id": "GV.OC",
+    "category_name": "Organizational Context",
+    "subcategory_id": "GV.OC-03",
+    "subcategory_text": "Legal, regulatory, and contractual requirements regarding cybersecurity are understood and managed."
+  },
+  {
+    "function_id": "GV",
+    "function_name": "GOVERN",
+    "category_id": "GV.OC",
+    "category_name": "Organizational Context",
+    "subcategory_id": "GV.OC-04",
+    "subcategory_text": "Critical objectives, capabilities, and services that external stakeholders depend on are understood."
+  },
+  {
+    "function_id": "GV",
+    "function_name": "GOVERN",
+    "category_id": "GV.OC",
+    "category_name": "Organizational Context",
+    "subcategory_id": "GV.OC-05",
+    "subcategory_text": "Outcomes, capabilities, and services that the organization depends on are understood and communicated."
+  },
+  {
+    "function_id": "GV",
+    "function_name": "GOVERN",
+    "category_id": "GV.RM",
+    "category_name": "Risk Management Strategy",
+    "subcategory_id": "GV.RM-01",
+    "subcategory_text": "Risk management objectives are established and agreed to by organizational stakeholders."
+  },
+  {
+    "function_id": "GV",
+    "function_name": "GOVERN",
+    "category_id": "GV.RM",
+    "category_name": "Risk Management Strategy",
+    "subcategory_id": "GV.RM-02",
+    "subcategory_text": "Risk appetite and risk tolerance statements are established, communicated, and maintained."
+  },
+  {
+    "function_id": "GV",
+    "function_name": "GOVERN",
+    "category_id": "GV.RM",
+    "category_name": "Risk Management Strategy",
+    "subcategory_id": "GV.RM-03",
+    "subcategory_text": "Cybersecurity risk management activities are included in enterprise risk management (ERM) processes."
+  },
+  {
+    "function_id": "GV",
+    "function_name": "GOVERN",
+    "category_id": "GV.RM",
+    "category_name": "Risk Management Strategy",
+    "subcategory_id": "GV.RM-04",
+    "subcategory_text": "Strategic direction for risk response options is established and communicated."
+  },
+  {
+    "function_id": "GV",
+    "function_name": "GOVERN",
+    "category_id": "GV.RM",
+    "category_name": "Risk Management Strategy",
+    "subcategory_id": "GV.RM-05",
+    "subcategory_text": "Lines of communication to management and stakeholders are established for risk-related information."
+  },
+  {
+    "function_id": "GV",
+    "function_name": "GOVERN",
+    "category_id": "GV.RM",
+    "category_name": "Risk Management Strategy",
+    "subcategory_id": "GV.RM-06",
+    "subcategory_text": "A standardized method for calculating, documenting, and reporting risk is established."
+  },
+  {
+    "function_id": "GV",
+    "function_name": "GOVERN",
+    "category_id": "GV.RM",
+    "category_name": "Risk Management Strategy",
+    "subcategory_id": "GV.RM-07",
+    "subcategory_text": "Strategic opportunities to improve the security and resilience of systems are identified and prioritized."
+  },
+  {
+    "function_id": "GV",
+    "function_name": "GOVERN",
+    "category_id": "GV.RR",
+    "category_name": "Roles, Responsibilities, and Authorities",
+    "subcategory_id": "GV.RR-01",
+    "subcategory_text": "Organizational leadership is responsible and accountable for cybersecurity risk decisions."
+  },
+  {
+    "function_id": "GV",
+    "function_name": "GOVERN",
+    "category_id": "GV.RR",
+    "category_name": "Roles, Responsibilities, and Authorities",
+    "subcategory_id": "GV.RR-02",
+    "subcategory_text": "Roles, responsibilities, and authorities for cybersecurity risk management are established and communicated."
+  },
+  {
+    "function_id": "GV",
+    "function_name": "GOVERN",
+    "category_id": "GV.RR",
+    "category_name": "Roles, Responsibilities, and Authorities",
+    "subcategory_id": "GV.RR-03",
+    "subcategory_text": "Cybersecurity is integrated into human resources practices (hiring, onboarding, performance reviews)."
+  },
+  {
+    "function_id": "GV",
+    "function_name": "GOVERN",
+    "category_id": "GV.RR",
+    "category_name": "Roles, Responsibilities, and Authorities",
+    "subcategory_id": "GV.RR-04",
+    "subcategory_text": "Adequate resources (personnel, budget, tools) are provided to the cybersecurity program."
+  },
+  {
+    "function_id": "GV",
+    "function_name": "GOVERN",
+    "category_id": "GV.PO",
+    "category_name": "Policy",
+    "subcategory_id": "GV.PO-01",
+    "subcategory_text": "Organizational cybersecurity policies are established, communicated, and enforced."
+  },
+  {
+    "function_id": "GV",
+    "function_name": "GOVERN",
+    "category_id": "GV.PO",
+    "category_name": "Policy",
+    "subcategory_id": "GV.PO-02",
+    "subcategory_text": "Policies and procedures are reviewed and updated to reflect changes in requirements and threats."
+  },
+  {
+    "function_id": "GV",
+    "function_name": "GOVERN",
+    "category_id": "GV.OV",
+    "category_name": "Oversight",
+    "subcategory_id": "GV.OV-01",
+    "subcategory_text": "The cybersecurity risk management strategy and program are reviewed to assess their performance."
+  },
+  {
+    "function_id": "GV",
+    "function_name": "GOVERN",
+    "category_id": "GV.OV",
+    "category_name": "Oversight",
+    "subcategory_id": "GV.OV-02",
+    "subcategory_text": "The cybersecurity strategy is adjusted to ensure coverage of organizational requirements."
+  },
+  {
+    "function_id": "GV",
+    "function_name": "GOVERN",
+    "category_id": "GV.OV",
+    "category_name": "Oversight",
+    "subcategory_id": "GV.OV-03",
+    "subcategory_text": "Cybersecurity risk management performance is evaluated for adjustments needed."
+  },
+  {
+    "function_id": "GV",
+    "function_name": "GOVERN",
+    "category_id": "GV.SC",
+    "category_name": "Supply Chain Risk Management",
+    "subcategory_id": "GV.SC-01",
+    "subcategory_text": "A cybersecurity supply chain risk management (C-SCRM) program is established."
+  },
+  {
+    "function_id": "GV",
+    "function_name": "GOVERN",
+    "category_id": "GV.SC",
+    "category_name": "Supply Chain Risk Management",
+    "subcategory_id": "GV.SC-02",
+    "subcategory_text": "Roles and responsibilities for suppliers, customers, and partners are established and coordinated."
+  },
+  {
+    "function_id": "GV",
+    "function_name": "GOVERN",
+    "category_id": "GV.SC",
+    "category_name": "Supply Chain Risk Management",
+    "subcategory_id": "GV.SC-03",
+    "subcategory_text": "C-SCRM is integrated into cybersecurity and enterprise risk management processes."
+  },
+  {
+    "function_id": "GV",
+    "function_name": "GOVERN",
+    "category_id": "GV.SC",
+    "category_name": "Supply Chain Risk Management",
+    "subcategory_id": "GV.SC-04",
+    "subcategory_text": "Suppliers are known and prioritized by criticality."
+  },
+  {
+    "function_id": "GV",
+    "function_name": "GOVERN",
+    "category_id": "GV.SC",
+    "category_name": "Supply Chain Risk Management",
+    "subcategory_id": "GV.SC-05",
+    "subcategory_text": "Requirements for cybersecurity in supply chains are integrated into contracts."
+  },
+  {
+    "function_id": "GV",
+    "function_name": "GOVERN",
+    "category_id": "GV.SC",
+    "category_name": "Supply Chain Risk Management",
+    "subcategory_id": "GV.SC-06",
+    "subcategory_text": "Planning and due diligence are performed before entering new supplier relationships."
+  },
+  {
+    "function_id": "GV",
+    "function_name": "GOVERN",
+    "category_id": "GV.SC",
+    "category_name": "Supply Chain Risk Management",
+    "subcategory_id": "GV.SC-07",
+    "subcategory_text": "Risks posed by a supplier are understood, recorded, prioritized, and monitored over the relationship."
+  },
+  {
+    "function_id": "GV",
+    "function_name": "GOVERN",
+    "category_id": "GV.SC",
+    "category_name": "Supply Chain Risk Management",
+    "subcategory_id": "GV.SC-08",
+    "subcategory_text": "Relevant suppliers are included in incident planning, response, and recovery activities."
+  },
+  {
+    "function_id": "GV",
+    "function_name": "GOVERN",
+    "category_id": "GV.SC",
+    "category_name": "Supply Chain Risk Management",
+    "subcategory_id": "GV.SC-09",
+    "subcategory_text": "Supply chain practices are monitored throughout the technology product/service life cycle."
+  },
+  {
+    "function_id": "GV",
+    "function_name": "GOVERN",
+    "category_id": "GV.SC",
+    "category_name": "Supply Chain Risk Management",
+    "subcategory_id": "GV.SC-10",
+    "subcategory_text": "Plans include provisions for activities that occur after a partnership or agreement ends."
+  },
+  {
+    "function_id": "ID",
+    "function_name": "IDENTIFY",
+    "category_id": "ID.AM",
+    "category_name": "Asset Management",
+    "subcategory_id": "ID.AM-01",
+    "subcategory_text": "Inventories of hardware managed by the organization are maintained."
+  },
+  {
+    "function_id": "ID",
+    "function_name": "IDENTIFY",
+    "category_id": "ID.AM",
+    "category_name": "Asset Management",
+    "subcategory_id": "ID.AM-02",
+    "subcategory_text": "Inventories of software, services, and systems managed by the organization are maintained."
+  },
+  {
+    "function_id": "ID",
+    "function_name": "IDENTIFY",
+    "category_id": "ID.AM",
+    "category_name": "Asset Management",
+    "subcategory_id": "ID.AM-03",
+    "subcategory_text": "Representations of authorized network communications and data flows are maintained."
+  },
+  {
+    "function_id": "ID",
+    "function_name": "IDENTIFY",
+    "category_id": "ID.AM",
+    "category_name": "Asset Management",
+    "subcategory_id": "ID.AM-04",
+    "subcategory_text": "Inventories of services provided by suppliers are maintained."
+  },
+  {
+    "function_id": "ID",
+    "function_name": "IDENTIFY",
+    "category_id": "ID.AM",
+    "category_name": "Asset Management",
+    "subcategory_id": "ID.AM-05",
+    "subcategory_text": "Assets are prioritized based on classification, criticality, and impact on the mission."
+  },
+  {
+    "function_id": "ID",
+    "function_name": "IDENTIFY",
+    "category_id": "ID.AM",
+    "category_name": "Asset Management",
+    "subcategory_id": "ID.AM-07",
+    "subcategory_text": "Inventories of data and corresponding metadata are maintained."
+  },
+  {
+    "function_id": "ID",
+    "function_name": "IDENTIFY",
+    "category_id": "ID.AM",
+    "category_name": "Asset Management",
+    "subcategory_id": "ID.AM-08",
+    "subcategory_text": "Systems, hardware, software, and data are managed throughout their life cycles."
+  },
+  {
+    "function_id": "ID",
+    "function_name": "IDENTIFY",
+    "category_id": "ID.RA",
+    "category_name": "Risk Assessment",
+    "subcategory_id": "ID.RA-01",
+    "subcategory_text": "Vulnerabilities in assets are identified, validated, and recorded."
+  },
+  {
+    "function_id": "ID",
+    "function_name": "IDENTIFY",
+    "category_id": "ID.RA",
+    "category_name": "Risk Assessment",
+    "subcategory_id": "ID.RA-02",
+    "subcategory_text": "Cyber threat intelligence is received from information-sharing forums and sources."
+  },
+  {
+    "function_id": "ID",
+    "function_name": "IDENTIFY",
+    "category_id": "ID.RA",
+    "category_name": "Risk Assessment",
+    "subcategory_id": "ID.RA-03",
+    "subcategory_text": "Internal and external threats to the organization are identified and recorded."
+  },
+  {
+    "function_id": "ID",
+    "function_name": "IDENTIFY",
+    "category_id": "ID.RA",
+    "category_name": "Risk Assessment",
+    "subcategory_id": "ID.RA-04",
+    "subcategory_text": "Potential impacts and likelihoods of threats exploiting vulnerabilities are identified."
+  },
+  {
+    "function_id": "ID",
+    "function_name": "IDENTIFY",
+    "category_id": "ID.RA",
+    "category_name": "Risk Assessment",
+    "subcategory_id": "ID.RA-05",
+    "subcategory_text": "Threats, vulnerabilities, and impacts are used to understand inherent risk."
+  },
+  {
+    "function_id": "ID",
+    "function_name": "IDENTIFY",
+    "category_id": "ID.RA",
+    "category_name": "Risk Assessment",
+    "subcategory_id": "ID.RA-06",
+    "subcategory_text": "Risk responses are chosen, prioritized, planned, and tracked."
+  },
+  {
+    "function_id": "ID",
+    "function_name": "IDENTIFY",
+    "category_id": "ID.RA",
+    "category_name": "Risk Assessment",
+    "subcategory_id": "ID.RA-07",
+    "subcategory_text": "Changes and exceptions are managed and assessed for risk impact."
+  },
+  {
+    "function_id": "ID",
+    "function_name": "IDENTIFY",
+    "category_id": "ID.RA",
+    "category_name": "Risk Assessment",
+    "subcategory_id": "ID.RA-08",
+    "subcategory_text": "Processes for receiving and responding to vulnerability disclosures are established."
+  },
+  {
+    "function_id": "ID",
+    "function_name": "IDENTIFY",
+    "category_id": "ID.RA",
+    "category_name": "Risk Assessment",
+    "subcategory_id": "ID.RA-09",
+    "subcategory_text": "The risk of adverse events impacting privacy and civil liberties is assessed."
+  },
+  {
+    "function_id": "ID",
+    "function_name": "IDENTIFY",
+    "category_id": "ID.RA",
+    "category_name": "Risk Assessment",
+    "subcategory_id": "ID.RA-10",
+    "subcategory_text": "Risk assessments are performed at regular intervals and in response to changes."
+  },
+  {
+    "function_id": "ID",
+    "function_name": "IDENTIFY",
+    "category_id": "ID.IM",
+    "category_name": "Improvement",
+    "subcategory_id": "ID.IM-01",
+    "subcategory_text": "Improvements are identified from evaluations, audits, and past incidents."
+  },
+  {
+    "function_id": "ID",
+    "function_name": "IDENTIFY",
+    "category_id": "ID.IM",
+    "category_name": "Improvement",
+    "subcategory_id": "ID.IM-02",
+    "subcategory_text": "Improvements are identified from security tests and exercises (e.g., red teaming)."
+  },
+  {
+    "function_id": "ID",
+    "function_name": "IDENTIFY",
+    "category_id": "ID.IM",
+    "category_name": "Improvement",
+    "subcategory_id": "ID.IM-03",
+    "subcategory_text": "Improvements are identified from the execution of operational processes."
+  },
+  {
+    "function_id": "ID",
+    "function_name": "IDENTIFY",
+    "category_id": "ID.IM",
+    "category_name": "Improvement",
+    "subcategory_id": "ID.IM-04",
+    "subcategory_text": "Response and recovery plans are established, maintained, and improved."
+  },
+  {
+    "function_id": "PR",
+    "function_name": "PROTECT",
+    "category_id": "PR.AA",
+    "category_name": "Identity Management, Authentication, and Access Control",
+    "subcategory_id": "PR.AA-01",
+    "subcategory_text": "Identities and credentials for authorized users, services, and hardware are managed."
+  },
+  {
+    "function_id": "PR",
+    "function_name": "PROTECT",
+    "category_id": "PR.AA",
+    "category_name": "Identity Management, Authentication, and Access Control",
+    "subcategory_id": "PR.AA-02",
+    "subcategory_text": "Identities are proofed and bound to credentials based on the context of interactions."
+  },
+  {
+    "function_id": "PR",
+    "function_name": "PROTECT",
+    "category_id": "PR.AA",
+    "category_name": "Identity Management, Authentication, and Access Control",
+    "subcategory_id": "PR.AA-03",
+    "subcategory_text": "Users, services, and hardware are authenticated (e.g., Multi-Factor Authentication)."
+  },
+  {
+    "function_id": "PR",
+    "function_name": "PROTECT",
+    "category_id": "PR.AA",
+    "category_name": "Identity Management, Authentication, and Access Control",
+    "subcategory_id": "PR.AA-04",
+    "subcategory_text": "Identity assertions are protected, conveyed, and verified."
+  },
+  {
+    "function_id": "PR",
+    "function_name": "PROTECT",
+    "category_id": "PR.AA",
+    "category_name": "Identity Management, Authentication, and Access Control",
+    "subcategory_id": "PR.AA-05",
+    "subcategory_text": "Access permissions are managed, enforced, and reviewed (Least Privilege)."
+  },
+  {
+    "function_id": "PR",
+    "function_name": "PROTECT",
+    "category_id": "PR.AA",
+    "category_name": "Identity Management, Authentication, and Access Control",
+    "subcategory_id": "PR.AA-06",
+    "subcategory_text": "Physical access to assets is managed, monitored, and enforced."
+  },
+  {
+    "function_id": "PR",
+    "function_name": "PROTECT",
+    "category_id": "PR.AT",
+    "category_name": "Awareness and Training",
+    "subcategory_id": "PR.AT-01",
+    "subcategory_text": "All personnel are provided with general cybersecurity awareness and training."
+  },
+  {
+    "function_id": "PR",
+    "function_name": "PROTECT",
+    "category_id": "PR.AT",
+    "category_name": "Awareness and Training",
+    "subcategory_id": "PR.AT-02",
+    "subcategory_text": "Personnel in specialized roles are provided with specific skills-based training."
+  },
+  {
+    "function_id": "PR",
+    "function_name": "PROTECT",
+    "category_id": "PR.DS",
+    "category_name": "Data Security",
+    "subcategory_id": "PR.DS-01",
+    "subcategory_text": "Confidentiality, integrity, and availability of data-at-rest are protected."
+  },
+  {
+    "function_id": "PR",
+    "function_name": "PROTECT",
+    "category_id": "PR.DS",
+    "category_name": "Data Security",
+    "subcategory_id": "PR.DS-02",
+    "subcategory_text": "Confidentiality, integrity, and availability of data-in-transit are protected."
+  },
+  {
+    "function_id": "PR",
+    "function_name": "PROTECT",
+    "category_id": "PR.DS",
+    "category_name": "Data Security",
+    "subcategory_id": "PR.DS-10",
+    "subcategory_text": "Confidentiality, integrity, and availability of data-in-use are protected."
+  },
+  {
+    "function_id": "PR",
+    "function_name": "PROTECT",
+    "category_id": "PR.DS",
+    "category_name": "Data Security",
+    "subcategory_id": "PR.DS-11",
+    "subcategory_text": "Backups of data are created, protected, maintained, and tested."
+  },
+  {
+    "function_id": "PR",
+    "function_name": "PROTECT",
+    "category_id": "PR.PS",
+    "category_name": "Platform Security",
+    "subcategory_id": "PR.PS-01",
+    "subcategory_text": "Configuration management practices are established and applied (hardening)."
+  },
+  {
+    "function_id": "PR",
+    "function_name": "PROTECT",
+    "category_id": "PR.PS",
+    "category_name": "Platform Security",
+    "subcategory_id": "PR.PS-02",
+    "subcategory_text": "Software is maintained, replaced, and removed commensurate with risk."
+  },
+  {
+    "function_id": "PR",
+    "function_name": "PROTECT",
+    "category_id": "PR.PS",
+    "category_name": "Platform Security",
+    "subcategory_id": "PR.PS-03",
+    "subcategory_text": "Hardware is maintained, replaced, and removed commensurate with risk."
+  },
+  {
+    "function_id": "PR",
+    "function_name": "PROTECT",
+    "category_id": "PR.PS",
+    "category_name": "Platform Security",
+    "subcategory_id": "PR.PS-04",
+    "subcategory_text": "Log records are generated and made available for monitoring."
+  },
+  {
+    "function_id": "PR",
+    "function_name": "PROTECT",
+    "category_id": "PR.PS",
+    "category_name": "Platform Security",
+    "subcategory_id": "PR.PS-05",
+    "subcategory_text": "Installation and execution of unauthorized software are prevented."
+  },
+  {
+    "function_id": "PR",
+    "function_name": "PROTECT",
+    "category_id": "PR.PS",
+    "category_name": "Platform Security",
+    "subcategory_id": "PR.PS-06",
+    "subcategory_text": "Secure software development practices are integrated into the SDLC."
+  },
+  {
+    "function_id": "PR",
+    "function_name": "PROTECT",
+    "category_id": "PR.IR",
+    "category_name": "Technology Infrastructure Resilience",
+    "subcategory_id": "PR.IR-01",
+    "subcategory_text": "Networks and environments are protected from unauthorized logical access."
+  },
+  {
+    "function_id": "PR",
+    "function_name": "PROTECT",
+    "category_id": "PR.IR",
+    "category_name": "Technology Infrastructure Resilience",
+    "subcategory_id": "PR.IR-02",
+    "subcategory_text": "Assets are protected from environmental threats (fire, flood, etc.)."
+  },
+  {
+    "function_id": "PR",
+    "function_name": "PROTECT",
+    "category_id": "PR.IR",
+    "category_name": "Technology Infrastructure Resilience",
+    "subcategory_id": "PR.IR-03",
+    "subcategory_text": "Resilience mechanisms are implemented to maintain requirements in adverse situations."
+  },
+  {
+    "function_id": "PR",
+    "function_name": "PROTECT",
+    "category_id": "PR.IR",
+    "category_name": "Technology Infrastructure Resilience",
+    "subcategory_id": "PR.IR-04",
+    "subcategory_text": "Adequate resource capacity is maintained to ensure availability."
+  },
+  {
+    "function_id": "DE",
+    "function_name": "DETECT",
+    "category_id": "DE.CM",
+    "category_name": "Continuous Monitoring",
+    "subcategory_id": "DE.CM-01",
+    "subcategory_text": "Networks and network services are monitored for adverse events."
+  },
+  {
+    "function_id": "DE",
+    "function_name": "DETECT",
+    "category_id": "DE.CM",
+    "category_name": "Continuous Monitoring",
+    "subcategory_id": "DE.CM-02",
+    "subcategory_text": "The physical environment is monitored for adverse events."
+  },
+  {
+    "function_id": "DE",
+    "function_name": "DETECT",
+    "category_id": "DE.CM",
+    "category_name": "Continuous Monitoring",
+    "subcategory_id": "DE.CM-03",
+    "subcategory_text": "Personnel activity and technology usage are monitored for adverse events."
+  },
+  {
+    "function_id": "DE",
+    "function_name": "DETECT",
+    "category_id": "DE.CM",
+    "category_name": "Continuous Monitoring",
+    "subcategory_id": "DE.CM-06",
+    "subcategory_text": "External service provider activities are monitored for adverse events."
+  },
+  {
+    "function_id": "DE",
+    "function_name": "DETECT",
+    "category_id": "DE.CM",
+    "category_name": "Continuous Monitoring",
+    "subcategory_id": "DE.CM-09",
+    "subcategory_text": "Hardware, software, and data are monitored to find potentially adverse events."
+  },
+  {
+    "function_id": "DE",
+    "function_name": "DETECT",
+    "category_id": "DE.AE",
+    "category_name": "Adverse Event Analysis",
+    "subcategory_id": "DE.AE-02",
+    "subcategory_text": "Potentially adverse events are analyzed to understand associated activities."
+  },
+  {
+    "function_id": "DE",
+    "function_name": "DETECT",
+    "category_id": "DE.AE",
+    "category_name": "Adverse Event Analysis",
+    "subcategory_id": "DE.AE-03",
+    "subcategory_text": "Information is correlated from multiple sources to analyze events."
+  },
+  {
+    "function_id": "DE",
+    "function_name": "DETECT",
+    "category_id": "DE.AE",
+    "category_name": "Adverse Event Analysis",
+    "subcategory_id": "DE.AE-04",
+    "subcategory_text": "The estimated impact and scope of adverse events are understood."
+  },
+  {
+    "function_id": "DE",
+    "function_name": "DETECT",
+    "category_id": "DE.AE",
+    "category_name": "Adverse Event Analysis",
+    "subcategory_id": "DE.AE-06",
+    "subcategory_text": "Information on adverse events is provided to authorized staff and tools."
+  },
+  {
+    "function_id": "DE",
+    "function_name": "DETECT",
+    "category_id": "DE.AE",
+    "category_name": "Adverse Event Analysis",
+    "subcategory_id": "DE.AE-07",
+    "subcategory_text": "Cyber threat intelligence is integrated into the analysis of adverse events."
+  },
+  {
+    "function_id": "DE",
+    "function_name": "DETECT",
+    "category_id": "DE.AE",
+    "category_name": "Adverse Event Analysis",
+    "subcategory_id": "DE.AE-08",
+    "subcategory_text": "Incidents are declared when adverse events meet defined criteria."
+  },
+  {
+    "function_id": "RS",
+    "function_name": "RESPOND",
+    "category_id": "RS.MA",
+    "category_name": "Incident Management",
+    "subcategory_id": "RS.MA-01",
+    "subcategory_text": "The incident response plan is executed in coordination with relevant third parties."
+  },
+  {
+    "function_id": "RS",
+    "function_name": "RESPOND",
+    "category_id": "RS.MA",
+    "category_name": "Incident Management",
+    "subcategory_id": "RS.MA-02",
+    "subcategory_text": "Incident reports are triaged and validated."
+  },
+  {
+    "function_id": "RS",
+    "function_name": "RESPOND",
+    "category_id": "RS.MA",
+    "category_name": "Incident Management",
+    "subcategory_id": "RS.MA-03",
+    "subcategory_text": "Incidents are categorized and prioritized."
+  },
+  {
+    "function_id": "RS",
+    "function_name": "RESPOND",
+    "category_id": "RS.MA",
+    "category_name": "Incident Management",
+    "subcategory_id": "RS.MA-04",
+    "subcategory_text": "Incidents are escalated or elevated as needed."
+  },
+  {
+    "function_id": "RS",
+    "function_name": "RESPOND",
+    "category_id": "RS.MA",
+    "category_name": "Incident Management",
+    "subcategory_id": "RS.MA-05",
+    "subcategory_text": "Criteria for initiating incident recovery are applied."
+  },
+  {
+    "function_id": "RS",
+    "function_name": "RESPOND",
+    "category_id": "RS.AN",
+    "category_name": "Incident Analysis",
+    "subcategory_id": "RS.AN-03",
+    "subcategory_text": "Analysis determines what took place and the root cause of the incident."
+  },
+  {
+    "function_id": "RS",
+    "function_name": "RESPOND",
+    "category_id": "RS.AN",
+    "category_name": "Incident Analysis",
+    "subcategory_id": "RS.AN-06",
+    "subcategory_text": "Investigation actions are recorded; integrity and provenance are preserved."
+  },
+  {
+    "function_id": "RS",
+    "function_name": "RESPOND",
+    "category_id": "RS.AN",
+    "category_name": "Incident Analysis",
+    "subcategory_id": "RS.AN-07",
+    "subcategory_text": "Incident data and metadata are collected and preserved."
+  },
+  {
+    "function_id": "RS",
+    "function_name": "RESPOND",
+    "category_id": "RS.AN",
+    "category_name": "Incident Analysis",
+    "subcategory_id": "RS.AN-08",
+    "subcategory_text": "The incident's magnitude is estimated and validated."
+  },
+  {
+    "function_id": "RS",
+    "function_name": "RESPOND",
+    "category_id": "RS.CO",
+    "category_name": "Incident Response Reporting and Communication",
+    "subcategory_id": "RS.CO-02",
+    "subcategory_text": "Internal and external stakeholders are notified of incidents."
+  },
+  {
+    "function_id": "RS",
+    "function_name": "RESPOND",
+    "category_id": "RS.CO",
+    "category_name": "Incident Response Reporting and Communication",
+    "subcategory_id": "RS.CO-03",
+    "subcategory_text": "Information is shared with designated stakeholders as required."
+  },
+  {
+    "function_id": "RS",
+    "function_name": "RESPOND",
+    "category_id": "RS.CO",
+    "category_name": "Incident Response Reporting and Communication",
+    "subcategory_id": "RS.CO-04",
+    "subcategory_text": "Voluntary information sharing occurs for situational awareness."
+  },
+  {
+    "function_id": "RS",
+    "function_name": "RESPOND",
+    "category_id": "RS.MI",
+    "category_name": "Incident Mitigation",
+    "subcategory_id": "RS.MI-01",
+    "subcategory_text": "Incidents are contained to prevent spread."
+  },
+  {
+    "function_id": "RS",
+    "function_name": "RESPOND",
+    "category_id": "RS.MI",
+    "category_name": "Incident Mitigation",
+    "subcategory_id": "RS.MI-02",
+    "subcategory_text": "Incidents are eradicated (e.g., removing malware, closing vulnerabilities)."
+  },
+  {
+    "function_id": "RC",
+    "function_name": "RECOVER",
+    "category_id": "RC.RP",
+    "category_name": "Incident Recovery Plan Execution",
+    "subcategory_id": "RC.RP-01",
+    "subcategory_text": "The recovery portion of the incident response plan is executed once initiated."
+  },
+  {
+    "function_id": "RC",
+    "function_name": "RECOVER",
+    "category_id": "RC.RP",
+    "category_name": "Incident Recovery Plan Execution",
+    "subcategory_id": "RC.RP-02",
+    "subcategory_text": "Recovery actions are selected, scoped, prioritized, and performed."
+  },
+  {
+    "function_id": "RC",
+    "function_name": "RECOVER",
+    "category_id": "RC.RP",
+    "category_name": "Incident Recovery Plan Execution",
+    "subcategory_id": "RC.RP-03",
+    "subcategory_text": "Integrity of backups is verified before use for restoration."
+  },
+  {
+    "function_id": "RC",
+    "function_name": "RECOVER",
+    "category_id": "RC.RP",
+    "category_name": "Incident Recovery Plan Execution",
+    "subcategory_id": "RC.RP-04",
+    "subcategory_text": "Critical mission functions are considered to establish post-incident norms."
+  },
+  {
+    "function_id": "RC",
+    "function_name": "RECOVER",
+    "category_id": "RC.RP",
+    "category_name": "Incident Recovery Plan Execution",
+    "subcategory_id": "RC.RP-05",
+    "subcategory_text": "Integrity of restored assets is verified; normal operating status is confirmed."
+  },
+  {
+    "function_id": "RC",
+    "function_name": "RECOVER",
+    "category_id": "RC.RP",
+    "category_name": "Incident Recovery Plan Execution",
+    "subcategory_id": "RC.RP-06",
+    "subcategory_text": "End of recovery is declared; documentation is completed."
+  },
+  {
+    "function_id": "RC",
+    "function_name": "RECOVER",
+    "category_id": "RC.CO",
+    "category_name": "Incident Recovery Communication",
+    "subcategory_id": "RC.CO-03",
+    "subcategory_text": "Recovery activities and progress are communicated to stakeholders."
+  },
+  {
+    "function_id": "RC",
+    "function_name": "RECOVER",
+    "category_id": "RC.CO",
+    "category_name": "Incident Recovery Communication",
+    "subcategory_id": "RC.CO-04",
+    "subcategory_text": "Public updates on incident recovery are shared using approved messaging."
+  }
+]
